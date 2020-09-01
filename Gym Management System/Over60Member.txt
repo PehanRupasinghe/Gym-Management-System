@@ -1,0 +1,10 @@
+021,unal,Female,12,Absent,No
+022,tasal,Male,24,Present,Yes
+023,unal,Female,12,Absent,No
+024,tasal,Male,24,Present,Yes
+025,unal,Female,12,Absent,No
+026,tasal,Male,24,Present,Yes
+027,unal,Female,12,Absent,No
+028,tasal,Male,24,Present,Yes
+029,unal,Female,12,Absent,No
+030,tasal,Male,24,Present,Yes

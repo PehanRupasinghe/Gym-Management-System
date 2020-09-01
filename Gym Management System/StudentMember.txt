@@ -1,0 +1,10 @@
+011,kushan,Male,Lyceum,No,Wattala
+012,yeshan,Female,lyceum,Yes,Wattala
+013,rushan,Male,Lyceum,Yes,Wattala
+014,teshan,Female,lyceum,No,Wattala
+015,hushan,Male,Lyceum,Yes,Wattala
+016,sahan,Female,lyceum,Yes,Wattala
+017,rakshan,Male,Lyceum,Yes,Wattala
+018,lohan,Female,lyceum,No,Wattala
+019,zushan,Male,Lyceum,Yes,Wattala
+020,ceshan,Female,lyceum,Yes,Wattala
